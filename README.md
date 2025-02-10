@@ -1,5 +1,5 @@
 # Walmart-Sales-Data-Analysis
-![Sample Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRztL0WzSHxYdzc8FmFZ8pCYA8GxsAThVhioAoQIrfPmnM2527iMnLvRXyd_5VO1xYdRg&usqp=CAU)](http://wallsdesk.com/wp-content/uploads/2016/10/Walmart-Widescreen.jpg)
+![Sample Image](http://wallsdesk.com/wp-content/uploads/2016/10/Walmart-Widescreen.jpg)
 
 
 ## About
@@ -27,22 +27,19 @@ The dataset contains transactional data from Walmart, including details about cu
 ## Project Structure :
 
 1. Importing Libraries: Essential libraries for data analysis and visualization are imported.
+  
 2. Loading the Dataset: The sales data is loaded into a pandas DataFrame.
+  
 3. Data Preprocessing:
 * Checked for duplicate and missing values.
 * Data cleaning and transformation as required.
-3. Exploratory Data Analysis (EDA):
+  
+4. Exploratory Data Analysis (EDA):
 * Analyzing customer distribution across cities.
 * Examining marital status distribution.
 * Identifying top-selling products and categories.
 * Analyzing purchase patterns based on demographics.
-4. Insights & Observations:
 
-City B has the highest number of customers, followed by City C and City A.
-
-The dataset is almost evenly split between single and married customers.
-
-Further insights into purchasing behavior and product preferences are discussed.
 
 ## Requirements :
 
@@ -56,3 +53,15 @@ Further insights into purchasing behavior and product preferences are discussed.
 ## Conclusion :
 
 This analysis provides valuable insights into Walmart's customer demographics and purchasing patterns, aiding in better strategic decisions in marketing and inventory management.
+1. **Occupational Spending Patterns:** Occupations classified under codes 8, 12, 15, and 17 exhibit notably higher average spending, suggesting targeted marketing strategies could be effective for these groups.
+
+2. **Top Performing Product:** The product with **Product_ID P00265242** recorded the highest purchase frequency, indicating its strong market demand and potential for promotional focus.
+
+3. **Correlation Insights:** While no strong correlations were detected among most variables, there are minor associations between product categories and purchasing behaviors, warranting further investigation.
+
+4. **Gender-Based Spending Variability:** Male consumers display greater variability in spending, particularly within the middle-age demographic, highlighting an opportunity for tailored marketing interventions.
+
+5. **Product Category Performance:** **Product Category 1** emerged as the top-performing segment in terms of total purchases, underscoring its popularity and potential for driving future sales growth.
+
+---
+
