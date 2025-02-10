@@ -1,5 +1,5 @@
 # Walmart-Sales-Data-Analysis
-! [Sample Image] (http://wallsdesk.com/wp-content/uploads/2016/10/Walmart-Widescreen.jpg)
+![Sample Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRztL0WzSHxYdzc8FmFZ8pCYA8GxsAThVhioAoQIrfPmnM2527iMnLvRXyd_5VO1xYdRg&usqp=CAU)
 
 
 ## About
